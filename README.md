@@ -1,4 +1,4 @@
-# kuliah_jumaat
+# Kuliah Jumaat
 sharing knowledge setiap hari jumaat
 
 TOC
